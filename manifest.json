@@ -2,9 +2,10 @@
   "name": "Status",
   "version": "1.0.0",
   "manifest_version": 1,
+  "icon": "logo.png",
   "action": {
     "title": "Status",
-    "icon": "Logo.png",
+    "icon": "logo.png",
     "popover": "https://ericlinsg.github.io/Status/index.html",
     "width": 950,
     "height": 500
